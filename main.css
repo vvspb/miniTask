@@ -1,0 +1,21 @@
+.posts-list{
+    padding-left: 80px;
+}
+.card{
+    display: table-cell;
+    background-color: rgba(255, 179, 47, 0.372);
+    font-family:sans-serif;
+    border: solid 1px;
+}
+.card h3{
+    text-align: center;
+    width: 1200px;
+    color: #222;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+.card p{
+    width: 1200px;
+    padding-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
